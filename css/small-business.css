@@ -10,12 +10,13 @@ body {
 
 .navbar-fixed-top .nav {
     padding: 10px 0;
-    color:blue;
-    background-color:pink;
+
 }
 
 .navbar-fixed-top .navbar-brand {
     padding: 0 15px;
+       color:blue;
+    background-color:pink;
 }
 
 footer {
