@@ -9,7 +9,9 @@ body {
 }
 
 .navbar-fixed-top .nav {
-    padding: 100px 0;
+    padding: 10px 0;
+    color:blue;
+    background-color:pink;
 }
 
 .navbar-fixed-top .navbar-brand {
